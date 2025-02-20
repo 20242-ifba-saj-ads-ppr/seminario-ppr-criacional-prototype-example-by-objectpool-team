@@ -1,4 +1,4 @@
-# Clipboard Singleton - Documentação
+# Prototype - Documentação
 
 ## Introdução
 
@@ -10,7 +10,7 @@ Imagine uma estrutura de arvore de pastas e arquivos, podendo conter centenas ou
 
 ## Solução Proposta
 
-Podemos declarar uma interface que declare um metodo de clonagen, de forma que as pastas e arquivos saibam copiar a si mesmos, e as pastas podem simplesmente chamar o metodo de clonagem de seus filhos.
+Podemos declarar uma interface que declare um metodo de clonagem, de forma que as pastas e arquivos saibam copiar a si mesmos, e as pastas podem simplesmente chamar o metodo de clonagem de seus filhos.
 
 ## De Para Participantes
 
